@@ -369,5 +369,23 @@ footer {
   color: #e61010;
 }
 
+
+.hbr:hover{
+  color: #888;
+  background-color: aquamarine;
+  animation-delay: initial;
+  transform: scale(1.1);
+   border: 2px solid #fff;
+
+  box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+
+
+}
+
+.signup-btn:hover {
+  border: 2px solid #fff;
+  transform: scale(1.05);
+  box-shadow: 0 8px 20px rgba(0, 198, 255, 0.4);
+}
 /* footer end */
 
