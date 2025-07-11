@@ -78,6 +78,7 @@ nav ul li a{
 .banner-title{
     font-weight: bold;
     font-size: 40px;
+    margin-top: 158px;
    
     margin-left: 200px;
     width: 905px;
@@ -128,7 +129,7 @@ nav ul li a{
 .left p {
   color: #9c9a9a;
   margin-bottom: 15px;
-  width: 300px;
+  width: 320px;
 }
 
 .left button {
@@ -139,6 +140,8 @@ nav ul li a{
   border: none;
   border-radius: 5px;
   cursor: pointer;
+  width: 229px;
+  height: 48px;
 }
 
 .right {
@@ -146,13 +149,15 @@ nav ul li a{
 }
 
 .right img {
-  width: 100%;
+  width: 403px;
+  height: 328px;
   border-radius: 20px;
 }
 
 .stats-section {
   width: 1000px;
   margin: 50px auto;
+  margin-top: 150px;
   background-color: #e7eaff;
   border-radius: 10px;
   padding: 30px;
@@ -171,12 +176,14 @@ nav ul li a{
 }
 
 .stat h2 {
-  font-size: 40px;
+  font-family: 'Inter', sans-serif;
+  font-size: 60px;
   color: #4f46e5;
+  
 }
 
 .stat p {
-  font-size: 14px;
+  font-size: 25px;
   color: #9c9a9a;
 }
 
@@ -258,7 +265,7 @@ nav ul li a{
   width: 1047;
   height: 724;
   padding: 50px 0;
-  background-color: #d5d8f0;
+  background-color: #c7caed;
 }
 
 .contact-container {
